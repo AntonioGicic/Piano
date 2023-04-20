@@ -5,6 +5,8 @@
   "dependencies": {
     "@react-three/drei": "^9.59.0",
     "@react-three/gltfjsx": "^4.3.4",
+    "@react-three/drei": "^9.56.27",
+    "@react-three/fiber": "^8.11.5",
     "@splinetool/runtime": "^0.9.269",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
